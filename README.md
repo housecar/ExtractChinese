@@ -24,3 +24,5 @@ single： 给出一个路径，比如：D:\project\Assets\Scripts\Game\Module\Fu
 * Date: 2026.01.28 11:16
  * Description: 每个抽卡池的数据类
  */
+
+路径使用的是相对路径，目前是放在项目中跟Assets同一层级，目标模块的路径CODE_MODULE_DIR 可以自定义
